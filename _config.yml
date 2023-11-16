@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.pdf", title: "CV"}
   - {title: "Lab", url: "https://soundlab.scm.cityu.edu.hk"}
-  - {title: "Blog", file: "index.md"}
+  - {title: "Abstract", file: "index.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "manni.chen@my.cityu.edu.hk"}
