@@ -9,4 +9,4 @@ Generating music with pitch and rhythm has received ample attentions from resear
 
 Audio samples can be listened here:
 
-{% include embed.html url="https://www.youtube.com/watch?v=ld-7VcVU6Gs" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ld-7VcVU6Gs?si=BJFTXbFhOXUzujr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
