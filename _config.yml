@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.pdf", title: "CV"}
   - {title: "Lab", url: "https://soundlab.scm.cityu.edu.hk"}
   - {title: "Abstract", file: "index.md"}
 
