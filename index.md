@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "NEURAL NETWORKS FOR GENERATING NOISE MUSIC  
-        Authors: Manni CHEN, PerMagnus LINDBORG "
+               Manni CHEN, PerMagnus LINDBORG "
 ---
 
 Abstract:
